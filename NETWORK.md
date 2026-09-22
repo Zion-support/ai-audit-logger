@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-audit-logger** — AI-driven audit logging and compliance tracking. Part of the Zion Tech Group app network (630+ apps).
+**ai-audit-logger** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
 ## Related apps
-- [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) — EU AI Act / ISO 42001
-- [zion-ai-compliance-evidence-collector](https://github.com/Zion-support/zion-ai-compliance-evidence-collector) — evidence gathering
-- [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) — AI governance
+- [ai-accessibility-auditor](https://github.com/Zion-support/ai-accessibility-auditor) — WCAG compliance scanning & auto-fix
+- [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) — EU AI Act / ISO 42001 automation
+- [ai-compliance-guardian](https://github.com/Zion-support/ai-compliance-guardian) — Regulatory compliance automation
+- [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) — Threat detection and response
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
